@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "908588962104",
+    "firebase_url": "https://textrecognitionusingml.firebaseio.com",
+    "project_id": "textrecognitionusingml",
+    "storage_bucket": "textrecognitionusingml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908588962104:android:249517766b9797d70c71cd",
+        "android_client_info": {
+          "package_name": "com.example.textrecognitionusingml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908588962104-g55lu63q70haa0glvpffii6cto42ir7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textrecognitionusingml",
+            "certificate_hash": "85ac16a3b2d3054faff9e5f05f7fb52cdae3bf7c"
+          }
+        },
+        {
+          "client_id": "908588962104-80fp21oeafi430tajie18mhbligpt41l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textrecognitionusingml",
+            "certificate_hash": "734b529bacb27cb932356abe19dc2d167f3f2981"
+          }
+        },
+        {
+          "client_id": "908588962104-ljg608uiv8fsnp19ii0q5jd4pc4t8l87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf--JsUCUvRjmKZWpTXhUpcA2S8dQTyzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908588962104-ljg608uiv8fsnp19ii0q5jd4pc4t8l87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
